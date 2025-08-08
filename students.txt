@@ -1,0 +1,5 @@
+st0001,khila,pass,ce
+st0002,romit,romit123,bca
+st0003,dharm,dharm123,bsc
+st0004,rahul,pass1,cst
+st0005,Dharm Goyani,0123,bsc
